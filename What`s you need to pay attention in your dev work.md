@@ -10,7 +10,7 @@ You should update your development info in time to let your teammate get the dev
 
 ### ⚠️ 3、Respond the bug & doubt in channel which is related to you in time
 
-The **QA** and **User** will have some **doubts** or report **bugs** of the product which is related to you. You should have a response in the **channel. ** If it`s a doubt, please answer the inquirer.  If It is a bug, You should tell the reporter you will check it **as soon** or give the reason for the bugs if you can, and then you should find the reason for the bugs and fix them as soon. In short, **don`t be 'quiet' with the inquirer in the channel !**
+The **QA** and **User** will have some **doubts** or report **bugs** of the product which is related to you. You should have a response in the channel. If it`s a doubt, please answer the inquirer.  If It is a bug, You should tell the reporter you will check it as soon or give the reason for the bugs if you can, and then you should find the reason for the bugs and fix them as soon. In short, don`t be 'quiet' with the inquirer in the channel !
 
 ### ⚠️ 4、You should think a little more when you doing a task
 
