@@ -1,8 +1,8 @@
 
 
-# New Staff Guide
+# New Joiner Guide
 
-When you are a new staff in the HK01-development and if you don`t known what you should to do in the beginning, then you may need the guide.
+When you are a new Joiner in the HK01-development and if you don`t known what you should to do in the beginning, then you may need the guide.
 
 <a name="Overview"></a>
 
