@@ -120,6 +120,6 @@ At least has **four** release branches, you can delete them in Github branches. 
 
 > @devops please help to remove all the release/* branches in ${repo-name} ETA: ${date}, thank you
 
-### You don`t known what`s the steps of relasing your repo?
+### You do not known what`s the steps of relasing your repo?
 
 please find the `Relase-Procedure.md` in the `/docs` of your repo.
