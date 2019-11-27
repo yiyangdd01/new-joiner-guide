@@ -93,7 +93,7 @@ In a large system, the common words are very necessary to exist, it can be the f
 
 ## Other Guides
 
-You can read the following guides when you need remote option
+You can read the following guides when you need related option
 
 - DCE Deploy Guide
 - what`s you should do when you PR and CR.
