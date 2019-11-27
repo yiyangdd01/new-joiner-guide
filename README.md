@@ -1,6 +1,4 @@
-# README.md
 
-<a name="0b328b06"></a>
 
 # New Staff Guide
 
