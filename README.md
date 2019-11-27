@@ -2,7 +2,7 @@
 
 # New Joiner Guide
 
-When you are a new Joiner in the HK01-development and if you don`t known what you should to do in the beginning, then you may need the guide.
+When you are a new Joiner in the HK01-development and if you don`t know what you should do in the beginning, then you may need the guide.
 
 <a name="Overview"></a>
 
@@ -59,7 +59,7 @@ The list can make you known what`s the main tech stacks in our projects quickly,
 
 ## Tools
 
-You need to log in the follow platforms by **Gmail Count** in your work, please ask for the key before start your develop
+You need to log in the following platforms by **Gmail Count** in your work, please ask for the key before start your develop
 
 - [Gmail](http://mail.google.com) - the email account is the **key** access all our production
 - [Github](https://github.com/) - The world's leading software **development** platform
@@ -93,11 +93,11 @@ In a large system, the common words are very necessary to exist, it can be the f
 
 ## Other Guides
 
-You can read the follow guides when you need remote option
+You can read the following guides when you need remote option
 
 - DCE Deploy Guide
 - what`s you should do when you PR and CR.
-- What`s you need pay attention to in your work.
+- What`s you need to pay attention to in your work.
 
 <a name="FQA"></a>
 
@@ -105,7 +105,7 @@ You can read the follow guides when you need remote option
 
 <a name="8b5417e0"></a>
 
-### You don`t have access of Github repo or other tools?
+### You don`t have access to Github repo or other tools?
 
 Please [@devops ]() in `#ask-devops` channel, you can send message as follow:
 
@@ -120,6 +120,6 @@ At least has **four** release branches, you can delete them in Github branches. 
 
 > @devops please help to remove all the release/* branches in ${repo-name} ETA: ${date}, thank you
 
-### You do not known what`s the steps of relasing your repo?
+### You do not know what`s the steps of releasing your repo?
 
-please find the `Relase-Procedure.md` in the `/docs` of your repo.
+please find the `Release-Procedure.md` in the `/docs` of your repo.
