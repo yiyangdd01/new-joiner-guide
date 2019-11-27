@@ -30,5 +30,4 @@ There has a **Release** **CheckList** of Issues Template in each Repo, you ca
 
 ### ⚠️ 8、Ensure your PR don`t be large
 
-The large PR will cause some problems. **First and most important,** it will be more hart to review, too many CL will cause the CR** quality is not well**, it is also will **cost more time** to check is your CL has effects in other features. Second, if the CL is too many, it may have many commits, so squash merge or not is hard to decide and it`s will lose the key commit in the PR. Please split your feature more small as much as possible。By this way, it will improve the PR`s quality and the development efficiency。
-
+The large PR will cause some problems. **First and most important,** it will be more hart to review, too many CL will cause the CR** quality is not well**, it is also will **cost more time** to check is your CL has effects in other features. Second, if the CL is too many, it may have many commits, so squash merge or not is hard to decide and it s will lose the key commit in the PR. Please split your feature more small as much as possible。By this way, it will improve quality and the development efficiency of the PR.
