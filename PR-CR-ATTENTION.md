@@ -1,4 +1,4 @@
-> this part is getting your attention when you PR and CR
+> This part is getting your attention when you PR and CR
 
 ## 
 
@@ -39,8 +39,8 @@
 
 ## Functional
 
-- is the code good to the future developer?
-- if you have free time, you should test it by yourself and think seriously about code whether it has some problems.
+- Is the code good to the future developer?
+- If you have free time, you should test it by yourself and think seriously about code whether it has some problems.
 
 ## Complexity
 
@@ -49,7 +49,7 @@
 
 ## Naming
 
-- is the code has meaningful names?
+- Is the code has meaningful names?
 
 ## Style
 
@@ -65,7 +65,7 @@
 - Explain fully, give the reason for your comment and leave some good practices if you can.
 - Encourage developer to simplify code and leave the key or orientation of the problem.
 - You can think him is right if you agree with the developer`s explanation and the PR is not bad to base code.
-- you can communicate with developer friendly if you don't agree with his solutions, but with good comment.
+- You can communicate with developer friendly if you don't agree with his solutions, but with good comment.
 
 ## Good Thing
 
