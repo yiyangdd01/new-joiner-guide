@@ -1,4 +1,4 @@
-> This part is getting your attention when you PR and CR
+> This part is getting your attention when you PR or CR and should think more about it 
 
 ## 
 
