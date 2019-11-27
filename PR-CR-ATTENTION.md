@@ -1,4 +1,4 @@
-> this part is get your attention when you PR and CR
+> this part is getting your attention when you PR and CR
 
 ## 
 
@@ -18,11 +18,11 @@
 
 ## Squash Merge or Merge PR
 
-- Don`t squash merge if the commits need be a part of target branch.
+- Don`t squash merge if the commits need to be a part of the target branch.
 
 ## PR merged
 
-- Please change the relate issue`s status and assignee in JIRA after PR merged immediately.
+- Please change the related issue`s status and assignee in JIRA after PR merged immediately.
 
 #  CR
 
@@ -31,15 +31,15 @@
 
 ## Design
 
-- if you not sure the PR`s deisgn is expect UI design, please pull the branch and check it.
-- is the code make sense?
-- is suitable with other components or librarys?
-- is the change necessary at this point in time?
-- is this part overall or hight level?
+- If you not sure the PR`s design is expected, please pull the branch and check it.
+- Is the code make sense?
+- Is it suitable for other components or libraries?
+- Is the change necessary at this time point?
+- Is this part overall or hight level?
 
 ## Functional
 
-- is the code  good to the future developer?
+- is the code good to the future developer?
 - if you have free time, you should test it by yourself and think seriously about code whether it has some problems.
 
 ## Complexity
@@ -57,19 +57,19 @@
 
 ## Doc
 
-- Is doc sync with code if they are relate?
+- Is doc sync with code if they are related?
 
 ## Comment
 
-- Your comment should be respetc and friendly.
-- Explan fully, give the reason of your comment and leave some good pratices if you can.
-- Encourage developer simplify code and leave the key or orientation of problem.
-- You can think him is right if you agree with developer`s explanation and the PR is not bad to base code.
-- you can communicate with developer friendly if you do`nt agree his solutions, but with good comment.
+- Your comment should be respect and friendly.
+- Explain fully, give the reason for your comment and leave some good practices if you can.
+- Encourage developer to simplify code and leave the key or orientation of the problem.
+- You can think him is right if you agree with the developer`s explanation and the PR is not bad to base code.
+- you can communicate with developer friendly if you don't agree with his solutions, but with good comment.
 
 ## Good Thing
 
-Code review is not only find error. if the developer`s produce is good, dont save your praise.
+Code review is not only found error. if the developer`s produce is good, don't save your praise.
 
 - LGTM
 - Other praise words
