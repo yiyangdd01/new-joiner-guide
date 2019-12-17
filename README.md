@@ -6,8 +6,7 @@ When you are a new Joiner in the HK01-development and if you don`t know what you
 
 <a name="Overview"></a>
 
-## Overview
-
+## 📄 Overview
 - Tech Stack List
 - Dev Accounts
 - Dev Tools
@@ -16,7 +15,7 @@ When you are a new Joiner in the HK01-development and if you don`t know what you
 
 <a name="43c737f9"></a>
 
-## Tech Stack List
+## 📚 Tech Stack List
 
 The list can make you known what`s the main tech stacks in our projects quickly, you also can find the all stacks in the **package.json**.
 
@@ -57,7 +56,7 @@ The list can make you known what`s the main tech stacks in our projects quickly,
 
 <a name="Tools"></a>
 
-## Tools
+## 🛠 Tools
 
 You need to log in the following platforms by **Gmail Count** in your work, please ask for the key before start your develop
 
@@ -71,7 +70,7 @@ You need to log in the following platforms by **Gmail Count** in your work, plea
 
 <a name="a2f96d5e"></a>
 
-## Common Words
+## 🔠 Common Words
 
 In a large system, the common words are very necessary to exist, it can be the feature of the product, it`s also can help to communicate with others and translate the requirements of each module or system into an executable process.
 
@@ -91,7 +90,7 @@ In a large system, the common words are very necessary to exist, it can be the f
 
 <a name="58aad38d"></a>
 
-## Other Guides
+## 📑 Other Guides
 
 You can read the following guides when you need related option
 
@@ -101,7 +100,7 @@ You can read the following guides when you need related option
 
 <a name="FQA"></a>
 
-## FQA
+## ❓ FQA
 
 <a name="8b5417e0"></a>
 
